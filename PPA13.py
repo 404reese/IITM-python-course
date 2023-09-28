@@ -4,7 +4,7 @@ cfrac = x
 
 while True:
     
-    term = int(input("Enter the next term of the continued fraction (or -1 to stop): "))
+    term = int(input())
     
     if term == -1:
         break
